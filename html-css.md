@@ -88,6 +88,9 @@ class: center, middle, inverse
 
 ---
 class: middle
+
+## Go to ```codepen.io```
+
 ## You might want to use...
 
 * body
